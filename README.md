@@ -4,9 +4,9 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-- Lavínia Rosemberg (usuario-do-github)
+- Lavínia Rosemberg (laviniarosemberg-lgtm)
 - Beatriz Alcântara (beatrizalcantara-alt)
-- Lilyan Neves ()
+- Lilyan Neves (lilyanalves-svg)
 
 ## Como contribuir
 
